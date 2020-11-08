@@ -3,7 +3,7 @@
 - My currently main project is **[Astro](https://astro-bot.space)**
 - I've developed some other Discord bots (see below)
 - I'm learning GDScript to contribute to [Opensuspect](https://github.com/opensuspect/opensuspect)  
-
+<br/><br/>
 **Discord bots I developed**  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,7 +12,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Todo-Reminder&show_owner=true&theme=tokyonight" />  
 </a>  
-<br/><br/>
+<br/><br/><br/>
 
 **Fancy stats**
 
