@@ -4,8 +4,8 @@
 - I've developed some other Discord bots (see below)
 - I'm learning GDScript to contribute to [Opensuspect](https://github.com/opensuspect/opensuspect)  
 
-**My open-source Discord bots**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=HelpDesk)](https://github.com/anuraghazra/github-readme-stats)
+**My open-source Discord bots**  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=HelpDesk&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Fancy stats**
 
