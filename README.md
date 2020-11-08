@@ -7,7 +7,7 @@
 
 **My open-source Discord bots**  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Giuliopime/HelpDesk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=HelpDesk&show_owner=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
