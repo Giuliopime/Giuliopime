@@ -3,7 +3,7 @@
 - My currently main project is **[Astro](https://astro-bot.space)**
 - I've developed some other Discord bots (see below)
 - I'm learning GDScript to contribute to [Opensuspect](https://github.com/opensuspect/opensuspect)  
-<br/>
+
 **My open-source Discord bots**  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
