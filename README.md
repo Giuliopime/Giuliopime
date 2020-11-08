@@ -1,7 +1,7 @@
 **Hi, Giulio here 👋**  
 
 - My currently main project is **[Astro](https://astro-bot.space)** *(not open-source atm)*
-- I've developed some other Discord bots (see below)
+- I've developed some other Discord bots *(see below)*
 - I'm learning GDScript to contribute to [Opensuspect](https://github.com/opensuspect/opensuspect)
 <br><br>
 
