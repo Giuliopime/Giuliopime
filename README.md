@@ -10,7 +10,6 @@
 <a href="https://github.com/Giuliopime/Astro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Astro&show_owner=true&theme=radical" />
 </a>
-<br/>
 <a href="https://github.com/Giuliopime/astro-bot.space">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=astro-bot.space&show_owner=true&theme=radical" />  
 </a>  
