@@ -2,7 +2,7 @@
 
 - My currently main project is **[Astro](https://astro-bot.space)** *(not open-source atm)*
 - I've developed some other Discord bots *(see below)*
-- Currently learning Vuejs
+- Currently learning WebDev
 <br><br>
 
 **My open-source Discord bots**  
