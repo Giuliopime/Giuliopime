@@ -1,6 +1,6 @@
 **Hi, Giulio here 👋**  
 
-- My currently main project is **[Astro](https://astro-bot.space)** *(see below)*
+- My main project as of right now is **[Astro](https://astro-bot.space)** *(see below)*
 - I've developed some other Discord bots *(see below)*
 - Currently learning WebDev
 <br><br>
