@@ -19,7 +19,11 @@
 </a>&emsp;
 <a href="https://github.com/Giuliopime/Astro-Technician">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Astro-Technician&show_owner=true&theme=radical" />  
-</a>  
+</a>
+<br/><br/>
+<a href="https://github.com/Giuliopime/Astro-Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Astro-Dashboard&show_owner=true&theme=radical" />  
+</a>
 <br/><br/><br/>
 
 **My open-source Discord bots**  
