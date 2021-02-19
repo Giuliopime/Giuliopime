@@ -1,26 +1,16 @@
 **Hi, Giulio here 👋**  
 
-- My main project as of right now is **[Astro](https://astro-bot.space)** *(see below)*
+- My main project as of right now is **[Astro](https://astro-bot.space)**
 - I've developed some other Discord bots *(see below)*
 - Currently learning WebDev
 <br><br>
 
 **Astro project**  
-
-<a href="https://github.com/Giuliopime/Astro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Astro&show_owner=true&theme=radical" />
-</a>&emsp;
-<a href="https://github.com/Giuliopime/astro-bot.space">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=astro-bot.space&show_owner=true&theme=radical" />  
-</a> 
-<br/><br/>
-<a href="https://github.com/Giuliopime/astro-docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=astro-docs&show_owner=true&theme=radical" />  
-</a>&emsp;
-<a href="https://github.com/Giuliopime/Astro-Technician">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Astro-Technician&show_owner=true&theme=radical" />  
-</a>
-<br/><br/>
+- [Invite Astro in your Discord server](https://astro-bot.space/invite)
+- [Website](https://astro-bot.space)
+- [Docs](https://docs.astro-bot.space)
+- [Support Server](https://docs.astro-bot.space/support)
+- [top.gg page](https://top.gg/bot/715621848489918495)
 <br/><br/><br/>
 
 **My open-source Discord bots**  
