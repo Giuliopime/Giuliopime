@@ -9,7 +9,7 @@
 - [Invite Astro in your Discord server](https://astro-bot.space/invite)
 - [Website](https://astro-bot.space)
 - [Docs](https://docs.astro-bot.space)
-- [Support Server](https://docs.astro-bot.space/support)
+- [Support Server](https://astro-bot.space/support)
 - [top.gg page](https://top.gg/bot/715621848489918495)
 <br/><br/><br/>
 
