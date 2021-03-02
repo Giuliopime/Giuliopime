@@ -33,6 +33,7 @@
 <a href="https://github.com/Giuliopime/vote-tracker-js-api-wrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=vote-tracker-js-api-wrapper&show_owner=true&theme=tokyonight" />
 </a>
+<br/><br/>
 
 **Fancy stats**
 
