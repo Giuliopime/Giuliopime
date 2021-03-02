@@ -27,6 +27,9 @@
 <a href="https://github.com/Giuliopime/Downloadify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Downloadify&show_owner=true&theme=tokyonight" />
 </a>&emsp;
+<a href="https://github.com/Giuliopime/discordjs-bot-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=discordjs-bot-template&show_owner=true&theme=tokyonight" />
+<br/>
 <a href="https://github.com/Giuliopime/vote-tracker-js-api-wrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=vote-tracker-js-api-wrapper&show_owner=true&theme=tokyonight" />
 </a>
