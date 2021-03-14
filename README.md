@@ -2,11 +2,10 @@
 
 About me:
 - 🍰 17 y.o.
-- 📍Italy, Verona
-
-- My main project as of right now is **[Astro](https://astro-bot.space)**
-- I've developed some other Discord bots *(see below)*
-- Currently learning WebDev
+- 📍 Italy, Verona. 
+- 📚 Student
+- 🧬 My main project as of right now is **[Astro](https://astro-bot.space)**
+- 🧪 I've developed some other Discord bots *(see below)*
 <br><br>
 
 **Astro project**  
