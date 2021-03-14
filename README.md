@@ -1,6 +1,5 @@
 **Hi, Giulio here 👋**  
 
-About me:
 - 🍰 17 y.o.
 - 📍 Italy, Verona. 
 - 📚 Student
