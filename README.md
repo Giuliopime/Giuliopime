@@ -17,8 +17,8 @@
 
 **My open-source Discord bots**  
 
-<a href="https://github.com/Giuliopime/HelpDesk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=HelpDesk&show_owner=true&theme=tokyonight" />
+<a href="https://github.com/Help-Desk-Discord-Bot/HelpDesk/tree/kotlin-rewrite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Help-Desk-Discord-Bot&repo=HelpDesk&show_owner=true&theme=tokyonight" />
 </a>&emsp;
 <a href="https://github.com/Giuliopime/Todo-Reminder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Todo-Reminder&show_owner=true&theme=tokyonight" />  
