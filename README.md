@@ -40,7 +40,7 @@
 **Fancy stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuliopime&show_icons=true&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuliopime&show_icons=true&count_private=false&theme=radical" />
 </a><br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliopime&layout=compact&theme=radical" />
