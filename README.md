@@ -2,8 +2,8 @@
 
 - 🍰 17 y.o.
 - 📍 Italy, Verona. 
-- 📚 Student
 - 🧬 My main project as of right now is **[Astro](https://astro-bot.space)**
+- 📚 Currently learning containerization and kubernetes
 - 🧪 I've developed some other Discord bots *(see below)*
 <br><br>
 
