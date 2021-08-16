@@ -24,7 +24,9 @@
 ![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin) 
 ![gradle](https://img.shields.io/badge/gradle-black?style=flat-square&logo=gradle) 
 ![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis) 
+![influxdb](https://img.shields.io/badge/influxdb-black?style=flat-square&logo=influxdb) 
 ![mongodb](https://img.shields.io/badge/Mongo DB-black?style=flat-square&logo=mongodb) 
+![openapi](https://img.shields.io/badge/openapi-black?style=flat-square&logo=openapiinitiative) 
 
 *Deployment*  
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) 
@@ -37,9 +39,10 @@
 *Tools*  
 ![homebrew](https://img.shields.io/badge/homebrew-black?style=flat-square&logo=homebrew) 
 ![vim](https://img.shields.io/badge/vim-black?style=flat-square&logo=vim) 
-![visualstudiocode](https://img.shields.io/badge/Visual Studio Code-black?style=flat-square&logo=visualstudiocode) 
-![intellijidea](https://img.shields.io/badge/IntelliJ IDEA-black?style=flat-square&logo=intellijidea) 
-
+![visualstudiocode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visualstudiocode) 
+![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellijidea) 
+![insomnia](https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia) 
+![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow) 
   
   
 **Astro project**  
