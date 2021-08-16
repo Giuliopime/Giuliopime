@@ -33,7 +33,7 @@
 ![ubuntu](https://img.shields.io/badge/ubuntu-black?style=flat-square&logo=ubuntu) 
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
 ![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx) 
-![googlecloud](https://img.shields.io/badge/googlecloud-black?style=flat-square&logo=googlecloud) 
+![googlecloud](https://img.shields.io/badge/gcp-black?style=flat-square&logo=googlecloud) 
 
 *Tools*  
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) 
