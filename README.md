@@ -25,7 +25,7 @@
 ![gradle](https://img.shields.io/badge/gradle-black?style=flat-square&logo=gradle) 
 ![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis) 
 ![influxdb](https://img.shields.io/badge/influxdb-black?style=flat-square&logo=influxdb) 
-![mongodb](https://img.shields.io/badge/Mongo DB-black?style=flat-square&logo=mongodb) 
+![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) 
 ![openapi](https://img.shields.io/badge/openapi-black?style=flat-square&logo=openapiinitiative) 
 
 *Deployment*  
