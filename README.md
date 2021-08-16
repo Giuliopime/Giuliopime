@@ -19,7 +19,7 @@
 ![nuxtdotjs](https://img.shields.io/badge/nuxt.js-black?style=flat-square&logo=nuxtdotjs) 
 
 *Backend*  
-![nodedotjs](https://img.shields.io/badge/nodedotjs-black?style=flat-square&logo=nodedotjs) 
+![nodedotjs](https://img.shields.io/badge/nodeJS-black?style=flat-square&logo=nodedotjs) 
 ![java](https://img.shields.io/badge/java-black?style=flat-square&logo=java) 
 ![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin) 
 ![gradle](https://img.shields.io/badge/gradle-black?style=flat-square&logo=gradle) 
@@ -29,7 +29,6 @@
 ![openapi](https://img.shields.io/badge/openapi-black?style=flat-square&logo=openapiinitiative) 
 
 *Deployment*  
-![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) 
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) 
 ![ubuntu](https://img.shields.io/badge/ubuntu-black?style=flat-square&logo=ubuntu) 
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
@@ -37,6 +36,7 @@
 ![googlecloud](https://img.shields.io/badge/googlecloud-black?style=flat-square&logo=googlecloud) 
 
 *Tools*  
+![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) 
 ![homebrew](https://img.shields.io/badge/homebrew-black?style=flat-square&logo=homebrew) 
 ![vim](https://img.shields.io/badge/vim-black?style=flat-square&logo=vim) 
 ![visualstudiocode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visualstudiocode) 
