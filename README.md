@@ -7,11 +7,41 @@
 - 🧪 I've developed some other Discord bots *(see below)*
 <br><br>
 
-**What I feel comfortable using**
-![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3)
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3)
+**What I feel comfortable using:**  
+  
+*Frontend*  
+![markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown) 
+![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5) 
+![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3) 
+![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss) 
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript) 
+![vuedotjs](https://img.shields.io/badge/vue.js-black?style=flat-square&logo=vuedotjs) 
+![nuxtdotjs](https://img.shields.io/badge/nuxt.js-black?style=flat-square&logo=nuxtdotjs) 
 
+*Backend*  
+![nodedotjs](https://img.shields.io/badge/nodedotjs-black?style=flat-square&logo=nodedotjs) 
+![java](https://img.shields.io/badge/java-black?style=flat-square&logo=java) 
+![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin) 
+![gradle](https://img.shields.io/badge/gradle-black?style=flat-square&logo=gradle) 
+![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis) 
+![mongodb](https://img.shields.io/badge/Mongo DB-black?style=flat-square&logo=mongodb) 
+
+*Deployment*  
+![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) 
+![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) 
+![ubuntu](https://img.shields.io/badge/ubuntu-black?style=flat-square&logo=ubuntu) 
+![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
+![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx) 
+![googlecloud](https://img.shields.io/badge/googlecloud-black?style=flat-square&logo=googlecloud) 
+
+*Tools*  
+![homebrew](https://img.shields.io/badge/homebrew-black?style=flat-square&logo=homebrew) 
+![vim](https://img.shields.io/badge/vim-black?style=flat-square&logo=vim) 
+![visualstudiocode](https://img.shields.io/badge/Visual Studio Code-black?style=flat-square&logo=visualstudiocode) 
+![intellijidea](https://img.shields.io/badge/IntelliJ IDEA-black?style=flat-square&logo=intellijidea) 
+
+  
+  
 **Astro project**  
 - [Invite Astro in your Discord server](https://astro-bot.space/invite)
 - [Website](https://astro-bot.space)
