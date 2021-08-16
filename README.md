@@ -7,6 +7,11 @@
 - 🧪 I've developed some other Discord bots *(see below)*
 <br><br>
 
+**What I feel comfortable using**
+![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3)
+![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3)
+
 **Astro project**  
 - [Invite Astro in your Discord server](https://astro-bot.space/invite)
 - [Website](https://astro-bot.space)
