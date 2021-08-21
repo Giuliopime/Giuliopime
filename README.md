@@ -56,30 +56,30 @@
 **My open-source Discord bots**  
 
 <a href="https://github.com/Help-Desk-Discord-Bot/HelpDesk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Help-Desk-Discord-Bot&repo=HelpDesk&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Help-Desk-Discord-Bot&repo=HelpDesk&show_owner=true&theme=gotham" />
 </a>&emsp;
 <a href="https://github.com/Giuliopime/Todo-Reminder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Todo-Reminder&show_owner=true&theme=tokyonight" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Todo-Reminder&show_owner=true&theme=gotham" />  
 </a>  
 <br/><br/><br/>
 
 **Other open source stuff**  
 <a href="https://github.com/Giuliopime/Downloadify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Downloadify&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Downloadify&show_owner=true&theme=gotham" />
 </a>&emsp;
 <a href="https://github.com/Giuliopime/discordjs-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=discordjs-bot-template&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=discordjs-bot-template&show_owner=true&theme=gotham" />
 <br/><br/>
 <a href="https://github.com/Giuliopime/vote-tracker-js-api-wrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=vote-tracker-js-api-wrapper&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=vote-tracker-js-api-wrapper&show_owner=true&theme=gotham" />
 </a>
 <br/><br/>
 
 **Fancy stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuliopime&show_icons=true&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuliopime&show_icons=true&count_private=true&theme=midnight-purple" />
 </a><br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliopime&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliopime&layout=compact&theme=midnight-purple" />
 </a>
