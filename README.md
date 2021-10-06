@@ -1,6 +1,6 @@
 **Hi, Giulio here 👋**  
 
-- 🍰 17 y.o.
+- 🍰 18 y.o.
 - 📍 Italy, Verona. 
 - 🧬 My main project as of right now is **[Astro](https://astro-bot.space)**
 - 📚 Currently learning containerization and kubernetes
