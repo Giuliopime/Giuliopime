@@ -1,10 +1,10 @@
 **Hi, Giulio here 👋**  
 
 - 🍰 18 y.o.
-- 📍 Italy, Verona. 
-- 🧬 My main project as of right now is **[Astro](https://astro-bot.space)**
-- 📚 Currently learning containerization and kubernetes
-- 🧪 I've developed some other Discord bots *(see below)*
+- 📍 Italy, Verona & Trento. 
+- 🧬 Building **[Index](https://index-it.app)** and creator of **[Astro](https://astro-bot.space)**
+- 📚 Studying Computer Science at [UniTn](https://www.unitn.it/en)
+- 🧪 I've developed some other side projects *(see below)*
 <br><br>
 
 **What I feel comfortable using:**  
@@ -43,36 +43,13 @@
 ![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellijidea) 
 ![insomnia](https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia) 
 ![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow) 
-  
+<br/><br/>
   
 **Astro project**  
 - [Invite Astro in your Discord server](https://astro-bot.space/invite)
 - [Website](https://astro-bot.space)
-- [Docs](https://docs.astro-bot.space)
 - [Support Server](https://astro-bot.space/support)
-- [top.gg page](https://top.gg/bot/715621848489918495)
-<br/><br/><br/>
-
-**My open-source Discord bots**  
-
-<a href="https://github.com/Giuliopime/HelpDesk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=HelpDesk&show_owner=true&theme=gotham" />
-</a>&emsp;
-<a href="https://github.com/Giuliopime/Todo-Reminder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Todo-Reminder&show_owner=true&theme=gotham" />  
-</a>  
-<br/><br/><br/>
-
-**Other open source stuff**  
-<a href="https://github.com/Giuliopime/Downloadify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=Downloadify&show_owner=true&theme=gotham" />
-</a>&emsp;
-<a href="https://github.com/Giuliopime/discordjs-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=discordjs-bot-template&show_owner=true&theme=gotham" />
-<br/><br/>
-<a href="https://github.com/Giuliopime/vote-tracker-js-api-wrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giuliopime&repo=vote-tracker-js-api-wrapper&show_owner=true&theme=gotham" />
-</a>
+- [top.gg page](https://astro-bot.space/topgg)
 <br/><br/>
 
 **Fancy stats**
