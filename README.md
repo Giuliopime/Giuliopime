@@ -1,6 +1,6 @@
 **Hi, Giulio here 👋**  
 
-- 🍰 18 y.o.
+- 🍰 19 y.o.
 - 📍 Italy, Verona & Trento. 
 - 🧬 Building **[Index](https://index-it.app)** and creator of **[Astro](https://astro-bot.space)**
 - 📚 Studying Computer Science at [UniTn](https://www.unitn.it/en)
