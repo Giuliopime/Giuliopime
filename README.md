@@ -43,6 +43,8 @@
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
 ![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx) 
 ![googlecloud](https://img.shields.io/badge/google_cloud_platform-black?style=flat-square&logo=googlecloud) 
+![cloudflare](https://img.shields.io/badge/cloudflare-black?style=flat-square&logo=cloudflare) 
+![vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel) 
 
 *Tools*  
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) 
@@ -53,6 +55,7 @@
 ![jetbrains](https://img.shields.io/badge/jetbrains-black?style=flat-square&logo=JetBrains) 
 ![insomnia](https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia) 
 ![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow) 
+![figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma) 
 <br/><br/>
   
 **Astro project**  
