@@ -57,6 +57,16 @@
 ![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow) 
 ![figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma) 
 <br/><br/>
+
+**Things I want to learn / try**  
+![kubernetes](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) 
+![swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift) 
+![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript) 
+![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react) 
+![next](https://img.shields.io/badge/next-black?style=flat-square&logo=nextdotjs) 
+![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=apollographql) 
+![svelte](https://img.shields.io/badge/svelte-black?style=flat-square&logo=svelte) 
+<br/><br/>
   
 **Astro project**  
 - [Invite Astro in your Discord server](https://astro-bot.space/invite)
