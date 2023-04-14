@@ -40,8 +40,9 @@
 ![semaphoreci](https://img.shields.io/badge/semaphore_ci-black?style=flat-square&logo=semaphoreci) 
 ![circleci](https://img.shields.io/badge/circle_ci-black?style=flat-square&logo=circleci) 
 ![ubuntu](https://img.shields.io/badge/ubuntu-black?style=flat-square&logo=ubuntu) 
-![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
 ![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx) 
+![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
+![kubernetes](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) 
 ![googlecloud](https://img.shields.io/badge/google_cloud_platform-black?style=flat-square&logo=googlecloud) 
 ![cloudflare](https://img.shields.io/badge/cloudflare-black?style=flat-square&logo=cloudflare) 
 ![vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel) 
@@ -59,7 +60,6 @@
 <br/><br/>
 
 **Things I want to learn / try**  
-![kubernetes](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) 
 ![swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift) 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript) 
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react) 
