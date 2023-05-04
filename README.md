@@ -18,6 +18,7 @@
 ![vuedotjs](https://img.shields.io/badge/vue.js-black?style=flat-square&logo=vuedotjs) 
 ![nuxtdotjs](https://img.shields.io/badge/nuxt.js-black?style=flat-square&logo=nuxtdotjs) 
 ![flutter](https://img.shields.io/badge/flutter-black?style=flat-square&logo=flutter) 
+![jetpackcompose](https://img.shields.io/badge/jetpack_compose-black?style=flat-square&logo=jetpackcompose)
 
 *Backend*  
 ![nodedotjs](https://img.shields.io/badge/nodeJS-black?style=flat-square&logo=nodedotjs) 
