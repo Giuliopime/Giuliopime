@@ -76,6 +76,7 @@
 - [top.gg page](https://astro-bot.space/topgg)
 <br/><br/>
 
+<!---
 **Fancy stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -85,5 +86,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliopime&layout=compact&theme=midnight-purple" />
 </a>  
 <br/><br/>
-  
+-->
 ![](https://komarev.com/ghpvc/?username=Giuliopime&style=flat&color=orange)
