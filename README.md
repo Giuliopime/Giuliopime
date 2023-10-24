@@ -60,6 +60,7 @@
 ![visualstudiocode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visualstudiocode) 
 ![jetbrains](https://img.shields.io/badge/jetbrains-black?style=flat-square&logo=JetBrains) 
 ![insomnia](https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia) 
+![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman) 
 ![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow) 
 ![figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma) 
 <br/><br/>
