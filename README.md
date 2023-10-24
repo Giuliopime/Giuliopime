@@ -82,7 +82,7 @@ My main focus at the moment is on [Index](https://index-it.app).
 I'm planning on building the best app for mental clearness that allows you to organise your tasks and list of things (any list!).  
 I've been developing it here and there in my freetime, the backend is at a great state, its stack is the following: ktor, redis, mongo, rabbitMQ, k8s / gcp, circleci. The frontend is the tough part, I'm planning on making all native apps for Android, iOS / ipadOS and web.  
 I'm now working on the Android Jetpack Compose app and there have been though challenges like handling authentication (which I do all myself in the backend, no services), offline-first approach, ui and ux, etc...  
-If you wanna get updates on the progress I make you can join [this Discord server](https://index-it.app/discord) where I also publish [ZenBreak](https://zenbreak.app) announcements.  
+If you wanna get updates on the progress I make you can join [this Discord server](https://discord.gg/ByXJ9CepKt) where I also publish [ZenBreak](https://zenbreak.app) announcements.  
 
 P.S.: ZenBreak is an app I made for the [Jetbrains Kotlin multiplatform contest](https://kotlinconf.com/contest/) but I'm now thinking of creating a digital suite of applications for Index which would include ZenBreak ^^  
 
