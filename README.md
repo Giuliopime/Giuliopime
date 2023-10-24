@@ -64,13 +64,16 @@
 ![figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma) 
 <br/><br/>
 
-**Things I want to learn / try**  
+**Things I'm learning**  
 ![swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift) 
+![svelte](https://img.shields.io/badge/svelte-black?style=flat-square&logo=svelte) 
+<br/><br/>
+
+**Things I want to learn / try**  
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript) 
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react) 
 ![next](https://img.shields.io/badge/next-black?style=flat-square&logo=nextdotjs) 
 ![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=apollographql) 
-![svelte](https://img.shields.io/badge/svelte-black?style=flat-square&logo=svelte) 
 <br/><br/>
   
 **Astro project**  
