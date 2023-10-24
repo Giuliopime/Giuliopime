@@ -86,7 +86,7 @@ If you wanna get updates on the progress I make you can join [this Discord serve
 
 P.S.: ZenBreak is an app I made for the [Jetbrains Kotlin multiplatform contest](https://kotlinconf.com/contest/) but I'm now thinking of creating a digital suite of applications for Index which would include ZenBreak ^^  
 
-
+<!--
 **Fancy stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
