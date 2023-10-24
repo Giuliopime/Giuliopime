@@ -7,6 +7,7 @@
   - Creator of **[Astro](https://astro-bot.space)**
   - Working at **[S3 Browser](https://s3-browser.app)**
   - Releasing **[ZenBreak](https://zenbreak.app)**
+  - Publishing on my [blog](https://blog.giuliopime.dev) and [personal](https://giuliopime.dev) website
 - 📚 Studying Computer Science at [UniTn](https://www.unitn.it/en)
 - 🧪 I've developed many other projects *(take a look at repos)*
 <br><br>
