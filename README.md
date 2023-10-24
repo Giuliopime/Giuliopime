@@ -2,9 +2,13 @@
 
 - 🍰 20 y.o.
 - 📍 Italy, Verona & Trento. 
-- 🧬 Building **[Index](https://index-it.app)** and creator of **[Astro](https://astro-bot.space)**
+- 🧬 Main projects:
+  - Building **[Index](https://index-it.app)**
+  - Creator of **[Astro](https://astro-bot.space)**
+  - Working at **[S3 Browser](https://s3-browser.app)**
+  - Releasing **[ZenBreak](https://zenbreak.app)**
 - 📚 Studying Computer Science at [UniTn](https://www.unitn.it/en)
-- 🧪 I've developed some other projects *(see below)*
+- 🧪 I've developed many other projects *(take a look at repos)*
 <br><br>
 
 **What I feel comfortable using:**  
