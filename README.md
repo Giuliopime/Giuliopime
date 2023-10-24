@@ -89,7 +89,8 @@ P.S.: ZenBreak is an app I made for the [Jetbrains Kotlin multiplatform contest]
 **Other not mentioned projects**  
 - [SkiMap](https://github.com/Space-13-Team-Undefined/SkiMap)
 
-<br>
+<br>  
+
 <!--
 **Fancy stats**
 
