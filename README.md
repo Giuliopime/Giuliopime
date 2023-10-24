@@ -87,8 +87,15 @@ If you wanna get updates on the progress I make you can join [this Discord serve
 
 P.S.: ZenBreak is an app I made for the [Jetbrains Kotlin multiplatform contest](https://kotlinconf.com/contest/) but I'm now thinking of creating a digital suite of applications for Index which would include ZenBreak ^^  
 
-**Other not mentioned projects**  
-- [SkiMap](https://github.com/Space-13-Team-Undefined/SkiMap)
+**Old projects**  
+- 2023 > [Chatoverflow](https://github.com/Giuliopime/chatoverflow)
+- 2023 > YT tutorial [temporary voice channels Discord bot](https://github.com/Giuliopime/temporary-voice-channels-discord-bot)
+- 2021 > DocsDrive [frontend](https://github.com/Giuliopime/docs-drive-frontend) & [backend](https://github.com/Giuliopime/docs-drive-backend)
+- 2021 > [SkiMap](https://github.com/Space-13-Team-Undefined/SkiMap)
+- 2021 > [Downloadify](https://github.com/Giuliopime/Downloadify)
+- 2021 > [HelpDesk](https://github.com/Giuliopime/HelpDesk)
+- 2021 > [Vote Tracker api wrapper](https://github.com/Giuliopime/Vote-Tracker-js-API-wrapper)
+- 2020 > [Todo-Reminder](https://github.com/Giuliopime/Todo-Reminder)
 
 <br>  
 
