@@ -1,6 +1,6 @@
 **Hi, Giulio here 👋**  
 
-- 🍰 20 y.o.
+- 🍰 21 y.o.
 - 📍 Italy, Verona & Trento. 
 - 🧬 Main projects:
   - Building **[Index](https://index-it.app)**
