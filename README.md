@@ -5,7 +5,7 @@
 - 🧬 Main projects:
   - Building **[Index](https://index-it.app)**
   - Creator of **[Astro](https://astro-bot.space)**
-  - Working at **[S3 Browser](https://s3-browser.app)**
+  - Working on **[Crossfade](https://crossfade.giuliopime.dev)**
   - Released **[ZenBreak](https://zenbreak.app)**
   - Publishing stuff I learn on my **[blog](https://blog.giuliopime.dev)**
 - 📚 Studying Computer Science at [UniTn](https://www.unitn.it/en)
