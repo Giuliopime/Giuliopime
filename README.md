@@ -1,7 +1,8 @@
 **Hi, Giulio here 👋**  
 
 - 🍰 22 y.o.
-- 📍 Italy, Verona & Trento. 
+- 📍 Italy, Verona & Trento.
+- 🎧 Working for the music industry @ [BMAT](https://bmat.com)
 - 🧬 Main projects:
   - Building **[Index](https://index-it.app)**
   - Creator of **[Astro](https://astro-bot.space)**
