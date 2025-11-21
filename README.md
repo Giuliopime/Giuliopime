@@ -6,8 +6,8 @@
 - 🧬 Main projects:
   - Building **[Index](https://index-it.app)**
   - Creator of **[Astro](https://astro-bot.space)**
-  - Working on **[Crossfade](https://crossfade.giuliopime.dev)**
-  - Released **[ZenBreak](https://zenbreak.app)**
+  - Released **[ZenBreak](https://zenbreak.app)** & **[Crossfade](https://crossfade.giuliopime.dev)**
+  - Working on making Music libraries more usable (write me)!
   - Publishing stuff I learn on my **[blog](https://giuliopime.dev)**
 - 📚 Studying Computer Science at [UniTn](https://www.unitn.it/en)
 - 🧪 I've developed many other projects *(take a look at repos)*
