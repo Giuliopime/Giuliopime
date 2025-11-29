@@ -1,7 +1,7 @@
 **Hi, Giulio here 👋**  
 
-- 🍰 22 y.o.
-- 📍 Italy, Verona & Trento.
+- 🍰 22 y.o
+- 📍 Italy | Spain - Verona | Trento | Barcelona
 - 🎧 Working for the music industry @ [BMAT](https://bmat.com)
 - 🧬 Main projects:
   - Building **[Index](https://index-it.app)**
