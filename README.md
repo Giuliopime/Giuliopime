@@ -4,7 +4,7 @@
 - 📍 Italy | Spain - Verona | Trento | Barcelona
 - 🎧 Working for the music industry @ [BMAT](https://bmat.com)
 - 🧬 Main projects:
-  - Building **[Index](https://index-it.app)**
+  - Building **[Index](https://github.com/index-it)** (WIP)
   - Creator of **[Astro](https://astro-bot.space)**
   - Released **[ZenBreak](https://zenbreak.app)** & **[Crossfade](https://crossfade.giuliopime.dev)**
   - Working on making Music libraries more usable (write me)!
