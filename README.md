@@ -8,7 +8,7 @@
   - Creator of **[Astro](https://astro-bot.space)**
   - Released **[ZenBreak](https://zenbreak.app)** & **[Crossfade](https://crossfade.giuliopime.dev)**
   - Working on making Music libraries more usable (write me)!
-  - Publishing stuff I learn on my **[blog](https://giuliopime.dev)**
+  - Publishing stuff I learn on my **[blog](https://giuliopime.dev/blog)**
 - 📚 Studying Computer Science at [UniTn](https://www.unitn.it/en)
 - 🧪 I've developed many other projects *(take a look at repos)*
 <br><br>
