@@ -1,14 +1,14 @@
 **Hi, Giulio here 👋**  
 
 - 🍰 22 y.o
-- 📍 Italy | Spain - Verona | Trento | Barcelona
-- 🎧 Working for the music industry @ [BMAT](https://bmat.com)
+- 📍 Italy | Spain - Verona | Barcelona
+- 🎧 Freelancing for the music industry @ [BMAT](https://bmat.com)
 - 🧬 Main projects:
-  - Learning to market **[Index](https://index-it.app)**
   - Creator of **[Astro](https://astro-bot.space)**
+  - Built **[Index](https://index-it.app)**
   - Released **[ZenBreak](https://zenbreak.app)** & **[Crossfade](https://crossfade.giuliopime.dev)**
-  - Working on making Music libraries more usable (write me)!
-  - Publishing stuff I learn on my **[blog](https://giuliopime.dev/blog)**
+  - Looking for ambitious projects with the goal of improving people’s life, while not replacing it with technology.
+  - Publishing stuff I learn on my **[blog](https://giuliopime.dev/)**
 - 📚 Studying Computer Science at [UniTn](https://www.unitn.it/en)
 - 🧪 I've developed many other projects *(take a look at repos)*
 <br><br>
@@ -18,13 +18,14 @@
 *Frontend*  
 ![markdown](https://img.shields.io/badge/markdown-black?style=flat-square&logo=markdown) 
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5) 
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3) 
+![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css) 
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss) 
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript) 
 ![vuedotjs](https://img.shields.io/badge/vue.js-black?style=flat-square&logo=vuedotjs) 
-![nuxtdotjs](https://img.shields.io/badge/nuxt.js-black?style=flat-square&logo=nuxtdotjs) 
+![nuxtdotjs](https://img.shields.io/badge/nuxt-black?style=flat-square&logo=nuxt) 
 ![flutter](https://img.shields.io/badge/flutter-black?style=flat-square&logo=flutter) 
 ![jetpackcompose](https://img.shields.io/badge/jetpack_compose-black?style=flat-square&logo=jetpackcompose)
+![swiftui](https://img.shields.io/badge/swift_ui-black?style=flat-square&logo=swift)
 
 *Backend*  
 ![nodedotjs](https://img.shields.io/badge/nodeJS-black?style=flat-square&logo=nodedotjs) 
@@ -38,9 +39,10 @@
 ![influxdb](https://img.shields.io/badge/influxdb-black?style=flat-square&logo=influxdb) 
 ![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL) 
+![iceberg](https://img.shields.io/badge/Apache_Iceberg-black?style=flat-square&logo=iceberg) 
 ![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase) 
 ![openapi](https://img.shields.io/badge/openapi-black?style=flat-square&logo=openapiinitiative) 
-![s3](https://img.shields.io/badge/amazon_s3-black?style=flat-square&logo=amazons3) 
+![s3](https://img.shields.io/badge/aws_s3-black?style=flat-square&logo=s3) 
 
 *Deployment*  
 ![githubactions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=githubactions) 
@@ -50,33 +52,17 @@
 ![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx) 
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) 
 ![kubernetes](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) 
+![hetzner](https://img.shields.io/badge/hetzner-black?style=flat-square&logo=hetzner) 
 ![googlecloud](https://img.shields.io/badge/google_cloud_platform-black?style=flat-square&logo=googlecloud) 
+![aws](https://img.shields.io/badge/aws-black?style=flat-square&logo=aws) 
 ![cloudflare](https://img.shields.io/badge/cloudflare-black?style=flat-square&logo=cloudflare) 
 ![vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel) 
-
-*Tools*  
-![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) 
-![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) 
-![homebrew](https://img.shields.io/badge/homebrew-black?style=flat-square&logo=homebrew) 
-![vim](https://img.shields.io/badge/vim-black?style=flat-square&logo=vim) 
-![visualstudiocode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visualstudiocode) 
-![jetbrains](https://img.shields.io/badge/jetbrains-black?style=flat-square&logo=JetBrains) 
-![insomnia](https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia) 
-![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman) 
-![stackoverflow](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow) 
-![figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma) 
 <br/><br/>
 
 **Things I'm learning**  
-![swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift) 
-![svelte](https://img.shields.io/badge/svelte-black?style=flat-square&logo=svelte) 
-<br/><br/>
-
-**Things I want to learn / try**  
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript) 
-![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react) 
-![next](https://img.shields.io/badge/next-black?style=flat-square&logo=nextdotjs) 
-![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=apollographql) 
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python) 
+![terraform](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform)  
+...and a lot more!
 <br/><br/>
 
 write me about your music ideas!  
